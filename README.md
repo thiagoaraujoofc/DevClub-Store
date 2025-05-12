@@ -1,2 +1,2 @@
-# DevClub-Store
+# DevClub Store
 
